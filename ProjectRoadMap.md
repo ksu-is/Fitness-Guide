@@ -1,4 +1,4 @@
--[] Approved Project idea 
+-[x] Approved Project idea 
 
 -[x] Accept invite to KSU-IS organization 
 
