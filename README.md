@@ -3,6 +3,6 @@ This code will help people to decide what type of workout they need according to
 
 -Which part if the body to target? 
 
--The type of workout: cardio, weights, or both 
+-The type of workout: cardio, weights
 
 
