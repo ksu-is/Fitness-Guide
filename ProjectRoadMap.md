@@ -20,3 +20,12 @@ Nov/20/2021
 [x] Start coding fitness program
 
 [x] Creat fitness_guide function draft
+
+Nov/30/2021
+
+[x] Continues coding 
+
+[x] Finish PowerPoint slide
+
+[x] Clean code
+
